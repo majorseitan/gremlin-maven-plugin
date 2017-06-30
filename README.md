@@ -1,5 +1,7 @@
 * maven install
-  mvn install
+~~~
+mvn install
+~~~
 
 * add to pom
 ~~~
@@ -14,7 +16,7 @@
  </build>
 ~~~
 
-* maven gremlin plugin
+* run gremlin plugin
 ~~~
  mvn org.blockfreie.carnelian:gremlin-maven-plugin:gremlin
 ~~~
